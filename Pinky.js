@@ -1,5 +1,5 @@
-/* codded by Kaztroser 
-Remoded by - Ajfx 
+/* codded by rix
+Remoded by - lisa 
 */
 
 const { Sequelize } = require('sequelize');
@@ -13,6 +13,6 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
  PLKAFN: process.env.BAD_WORDS === undefined ? false : process.env.BAD_WORDS,
- PHONE: process.env.NUMBER === undefined ? '+918281440156' : process.env.NUMBER,   
- OA_NAME: process.env.DEPLOYER === undefined ? 'ᴀᴊғx' : process.env.DEPLOYER,    
+ PHONE: process.env.NUMBER === undefined ? '+919778206654' : process.env.NUMBER,   
+ OA_NAME: process.env.DEPLOYER === undefined ? 'ACHU' : process.env.DEPLOYER,    
 };
