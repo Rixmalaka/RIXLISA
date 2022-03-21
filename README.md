@@ -1,10 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+RIXLISA+WA+Bot+repo;Created+by+rix+jaan;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
  
   <p align="center">
 <span class="avatar"><img height='320' src="https://i.imgur.com/KUaX2XT.jpeg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-RIX-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
